@@ -2,7 +2,6 @@
 
 - 🎓 Software Engineer at the Universidade de Brasilia;
 - 🎮 Adventurer in the vast world of game development;
-- 🌱 I’m currently learning netcode;
 
 ## Favourite Stack
 
